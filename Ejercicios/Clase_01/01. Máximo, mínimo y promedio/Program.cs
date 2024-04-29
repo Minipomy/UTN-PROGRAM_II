@@ -46,6 +46,7 @@ namespace _01.Máximo__mínimo_y_promedio
             Console.WriteLine($"Valor mínimo: {valorMinimo}");
             Console.WriteLine($"Promedio: {promedio:F4}"); // Mostrar con 4 decimales
             Console.ReadLine();
+
         }
     }
 }
