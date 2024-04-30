@@ -1,0 +1,7 @@
+M:\UTN\Program II\Ejercicios\Clase 6\01. El viajar es un placer\obj\Debug\01. El viajar es un placer.csproj.AssemblyReference.cache
+M:\UTN\Program II\Ejercicios\Clase 6\01. El viajar es un placer\obj\Debug\01. El viajar es un placer.csproj.CoreCompileInputs.cache
+M:\UTN\Program II\Ejercicios\Clase 6\01. El viajar es un placer\bin\Debug\_01.El_viajar_es_un_placer.exe.config
+M:\UTN\Program II\Ejercicios\Clase 6\01. El viajar es un placer\bin\Debug\_01.El_viajar_es_un_placer.exe
+M:\UTN\Program II\Ejercicios\Clase 6\01. El viajar es un placer\bin\Debug\_01.El_viajar_es_un_placer.pdb
+M:\UTN\Program II\Ejercicios\Clase 6\01. El viajar es un placer\obj\Debug\_01.El_viajar_es_un_placer.exe
+M:\UTN\Program II\Ejercicios\Clase 6\01. El viajar es un placer\obj\Debug\_01.El_viajar_es_un_placer.pdb
