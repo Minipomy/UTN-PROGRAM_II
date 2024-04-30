@@ -1,0 +1,7 @@
+M:\UTN\Program II\Ejercicios\Clase_01\01. Máximo, mínimo y promedio\bin\Debug\_01.Máximo__mínimo_y_promedio.exe.config
+M:\UTN\Program II\Ejercicios\Clase_01\01. Máximo, mínimo y promedio\bin\Debug\_01.Máximo__mínimo_y_promedio.exe
+M:\UTN\Program II\Ejercicios\Clase_01\01. Máximo, mínimo y promedio\bin\Debug\_01.Máximo__mínimo_y_promedio.pdb
+M:\UTN\Program II\Ejercicios\Clase_01\01. Máximo, mínimo y promedio\obj\Debug\01. Máximo, mínimo y promedio.csproj.AssemblyReference.cache
+M:\UTN\Program II\Ejercicios\Clase_01\01. Máximo, mínimo y promedio\obj\Debug\01. Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+M:\UTN\Program II\Ejercicios\Clase_01\01. Máximo, mínimo y promedio\obj\Debug\_01.Máximo__mínimo_y_promedio.exe
+M:\UTN\Program II\Ejercicios\Clase_01\01. Máximo, mínimo y promedio\obj\Debug\_01.Máximo__mínimo_y_promedio.pdb
