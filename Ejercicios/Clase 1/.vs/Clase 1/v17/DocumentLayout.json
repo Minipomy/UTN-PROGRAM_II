@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\UTN-PROGRAM_II\\Ejercicios\\Clase 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8921B3A5-1A00-45D8-81C2-C2C22137259F}|03. Los primos\\03. Los primos.csproj|d:\\utn-program_ii\\ejercicios\\clase 1\\03. los primos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8921B3A5-1A00-45D8-81C2-C2C22137259F}|03. Los primos\\03. Los primos.csproj|solutionrelative:03. los primos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11D8E808-EC41-4375-8EA4-FE08A4EFC629}|02. Error al cubo\\02. Error al cubo.csproj|d:\\utn-program_ii\\ejercicios\\clase 1\\02. error al cubo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11D8E808-EC41-4375-8EA4-FE08A4EFC629}|02. Error al cubo\\02. Error al cubo.csproj|solutionrelative:02. error al cubo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4388E55-37AD-45E1-9F90-304FB2DA0CEF}|01. M\u00E1ximo, m\u00EDnimo y promedio\\01. M\u00E1ximo, m\u00EDnimo y promedio.csproj|d:\\utn-program_ii\\ejercicios\\clase 1\\01. m\u00E1ximo, m\u00EDnimo y promedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4388E55-37AD-45E1-9F90-304FB2DA0CEF}|01. M\u00E1ximo, m\u00EDnimo y promedio\\01. M\u00E1ximo, m\u00EDnimo y promedio.csproj|D:\\UTN-PROGRAM_II\\Ejercicios\\Clase 1\\01. m\u00E1ximo, m\u00EDnimo y promedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4388E55-37AD-45E1-9F90-304FB2DA0CEF}|01. M\u00E1ximo, m\u00EDnimo y promedio\\01. M\u00E1ximo, m\u00EDnimo y promedio.csproj|solutionrelative:01. m\u00E1ximo, m\u00EDnimo y promedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,18 +28,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTN-PROGRAM_II\\Ejercicios\\Clase 1\\03. Los primos\\Program.cs",
+              "RelativeDocumentMoniker": "03. Los primos\\Program.cs",
+              "ToolTip": "D:\\UTN-PROGRAM_II\\Ejercicios\\Clase 1\\03. Los primos\\Program.cs",
+              "RelativeToolTip": "03. Los primos\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:24:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\UTN-PROGRAM_II\\Ejercicios\\Clase 1\\02. Error al cubo\\Program.cs",
               "RelativeDocumentMoniker": "02. Error al cubo\\Program.cs",
               "ToolTip": "D:\\UTN-PROGRAM_II\\Ejercicios\\Clase 1\\02. Error al cubo\\Program.cs",
               "RelativeToolTip": "02. Error al cubo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:08:24.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UTN-PROGRAM_II\\Ejercicios\\Clase 1\\01. M\u00E1ximo, m\u00EDnimo y promedio\\Program.cs",
               "RelativeDocumentMoniker": "01. M\u00E1ximo, m\u00EDnimo y promedio\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "01. M\u00E1ximo, m\u00EDnimo y promedio\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T22:57:26.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T22:57:26.475Z"
             }
           ]
         }

@@ -1,0 +1,7 @@
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\03. Los primos\bin\Debug\_03.Los_primos.exe.config
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\03. Los primos\bin\Debug\_03.Los_primos.exe
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\03. Los primos\bin\Debug\_03.Los_primos.pdb
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\03. Los primos\obj\Debug\03. Los primos.csproj.AssemblyReference.cache
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\03. Los primos\obj\Debug\03. Los primos.csproj.CoreCompileInputs.cache
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\03. Los primos\obj\Debug\_03.Los_primos.exe
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\03. Los primos\obj\Debug\_03.Los_primos.pdb
