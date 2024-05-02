@@ -1,0 +1,7 @@
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\02. Error al cubo\bin\Debug\_02.Error_al_cubo.exe.config
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\02. Error al cubo\bin\Debug\_02.Error_al_cubo.exe
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\02. Error al cubo\bin\Debug\_02.Error_al_cubo.pdb
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\02. Error al cubo\obj\Debug\02. Error al cubo.csproj.AssemblyReference.cache
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\02. Error al cubo\obj\Debug\02. Error al cubo.csproj.CoreCompileInputs.cache
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\02. Error al cubo\obj\Debug\_02.Error_al_cubo.exe
+D:\UTN-PROGRAM_II\Ejercicios\Clase 1\02. Error al cubo\obj\Debug\_02.Error_al_cubo.pdb

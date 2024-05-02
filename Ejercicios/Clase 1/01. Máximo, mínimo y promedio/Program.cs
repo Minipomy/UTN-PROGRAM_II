@@ -10,6 +10,11 @@ namespace _01.Máximo__mínimo_y_promedio
     {
         static void Main(string[] args)
         {
+
+            //Template de ejercicios
+            Console.Title = "Clase 1 - Ejercicios";
+            Console.WriteLine("Clase 1 - Ejercicio 2");
+
             // Crear una variable para almacenar la suma total
             double suma = 0;
 
